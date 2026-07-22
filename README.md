@@ -8,4 +8,4 @@
   <img src="https://vani-stats.vercel.app/api?username=pashya166&theme=tokyonight" alt="Top Languages" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=pashya166&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pashyadr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
